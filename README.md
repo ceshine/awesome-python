@@ -2,7 +2,7 @@
 
 A curated list of awesome Python frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
-- [Awesome Python](#awesome-python)
+- [Awesome Python](#awesome-python)m
     - [Environment Management](#environment-management)
     - [Package Management](#package-management)
     - [Package Repositories](#package-repositories)
@@ -978,10 +978,13 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [pattern](https://github.com/clips/pattern) - Web mining module for Python.
 * [PyBrain](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 * [Pylearn2](https://github.com/lisa-lab/pylearn2) - A Machine Learning library based on [Theano](https://github.com/Theano/Theano).
+* [Blocks](https://github.com/mila-udem/blocks/) - A framework that helps you build and manage neural network models on using [Theano](https://github.com/Theano/Theano).
+* [Keras](http://keras.io/) - A minimalist, highly modular neural networks library, capable of running either on top of either [TensorFlow](https://github.com/tensorflow/tensorflow) or [Theano](https://github.com/Theano/Theano).
+* [Lasagne](https://github.com/Lasagne/Lasagne) - Lasagne is a lightweight library to build and train neural networks in (https://github.com/Theano/Theano).
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
 * [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/).
-* [skflow](https://github.com/google/skflow) - A simplified interface for TensorFlow mimicking scikit-learn
+* [skflow](https://github.com/google/skflow) - A simplified interface for [TensorFlow](https://github.com/tensorflow/tensorflow) mimicking scikit-learn
 
 ## MapReduce
 
